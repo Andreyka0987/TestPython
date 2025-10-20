@@ -58,11 +58,22 @@ def seventhProblem():
         print("Bad")
         return
 
-seventhProblem()
+#list = ["Nigga","Gooner",67]
+
+#print(list)
 
 
-    
+#set = {"Nigga",67,"Mustard"}
+#set.add(67)
+#print(set)
 
 
+
+for i in range(5):
+    print(i+1)
+
+while x != 0:
+    print("NIIIIGGGGAAAAAAA")
+    break
 
 
